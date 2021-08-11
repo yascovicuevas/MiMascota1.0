@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiMascota1.0.Common", "MiMascota1.0.Common\MiMascota1.0.Common.csproj", "{0D03005D-619F-4940-A6A9-EA9DCE1CD2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiMascota1.0.web", "MiMascota1.0.web\MiMascota1.0.web.csproj", "{2C6DABFA-7946-4F0E-8347-2C0F0E2BF032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D03005D-619F-4940-A6A9-EA9DCE1CD2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D03005D-619F-4940-A6A9-EA9DCE1CD2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D03005D-619F-4940-A6A9-EA9DCE1CD2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D03005D-619F-4940-A6A9-EA9DCE1CD2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6DABFA-7946-4F0E-8347-2C0F0E2BF032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6DABFA-7946-4F0E-8347-2C0F0E2BF032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6DABFA-7946-4F0E-8347-2C0F0E2BF032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6DABFA-7946-4F0E-8347-2C0F0E2BF032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B126817-EF09-4B52-A1F1-8E5C38F5D2F4}
+	EndGlobalSection
+EndGlobal
